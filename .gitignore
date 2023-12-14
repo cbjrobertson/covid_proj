@@ -1,4 +1,7 @@
-data/*
+data/**/*.csv
+data/**/*.xlsx
+data/**/*.zip
+data/**/*.pkl
 __pycache__
 .ipynb_checkpoints
 *.hdf5
