@@ -4,8 +4,8 @@ data/**/*.zip
 data/**/*.pkl
 __pycache__
 .ipynb_checkpoints
-*.hdf5
-*.preproc
-*/models/*
+**/*.hdf5
+**/*.preproc
+**/models/**
 creds.json
 test.csv
